@@ -3,7 +3,7 @@ package org.yandex.contest.trains3;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class PolishNotation {
+public class PolishNotation_13 {
 
     public static void main(String[] args) {
         calculate();

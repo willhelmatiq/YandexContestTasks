@@ -3,7 +3,7 @@ package org.yandex.contest.trains3;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class CorrectBracketsTask {
+public class CorrectBrackets_12Task {
 
     public static void main(String[] args) {
         if (isBracketSequenceCorrect()) {
