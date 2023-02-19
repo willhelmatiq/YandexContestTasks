@@ -1,9 +1,9 @@
-package org.yandex.contest.trains3;
+package org.yandex.contest.trains3.hw1;
 
 import java.util.Scanner;
 import java.util.Stack;
 
-public class CorrectBrackets_12Task {
+public class CorrectBracketsTask_12 {
 
     public static void main(String[] args) {
         if (isBracketSequenceCorrect()) {

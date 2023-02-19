@@ -1,4 +1,4 @@
-package org.yandex.contest.trains3;
+package org.yandex.contest.trains3.warmUp;
 
 import java.io.BufferedReader;
 import java.io.IOException;

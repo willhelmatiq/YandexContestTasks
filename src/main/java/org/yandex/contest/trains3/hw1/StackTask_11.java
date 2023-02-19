@@ -1,4 +1,4 @@
-package org.yandex.contest.trains3;
+package org.yandex.contest.trains3.hw1;
 
 import java.util.Scanner;
 import java.util.Stack;
